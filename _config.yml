@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhiyi Zheng"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "I am a graduate student at the School of Mathematics, Tianjin University, supervised by Prof. Xin Chen. My current research focuses on DNA storage and deep learning, with an emphasis on debasing random sequences generated during DNA synthesis. I am dedicated to analyzing and correcting statistical biases in DNA sequences using deep learning models, aiming to generate large-scale reliable random numbers. My research interests include DNA storage, machine learning, and their applications in bioinformatics."
+  bio              : "Focusing on DNA storage and deep learning. "
   location         : "Tianjin, China"
   employer         :
   pubmed           : 
