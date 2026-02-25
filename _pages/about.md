@@ -22,7 +22,7 @@ I am a graduate student at the School of Mathematics, Tianjin University, superv
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCIENTIA SINICA Vitae 2025</div> alt="DNA信息存储可靠性" width="100%"></div></div>
+<div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
 [Research status of the reliability of DNA data storage (DNA信息存储的可靠性研究现状)](https://doi.org/10.1360/SSV-2025-0200)
@@ -30,7 +30,8 @@ I am a graduate student at the School of Mathematics, Tianjin University, superv
 YUE XueQing, **ZHENG ZhiYi**, CAO RuiYing, ZHOU PengHua, CHEN Xin
 
 [**DOI**](https://doi.org/10.1360/SSV-2025-0200) <strong><span class='show_paper_citations' data='替换为你的谷歌学术citation ID'></span></strong>
-- 系统梳理DNA信息存储领域的可靠性研究进展，分析现有技术的统计偏差问题，为后续深度学习去偏方法提供理论参考。
+- 系统梳理DNA信息存储领域的可靠性研究进展，分析现有技术的统计偏差问题。
+<div class="badge">SCIENTIA SINICA Vitae 2025</div>
 </div>
 </div>
 
